@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CourseFinder</string>
+    <string name="name">Hey Ankush,</string>
+    <string name="search_for_courses">Search for courses</string>
+</resources>
