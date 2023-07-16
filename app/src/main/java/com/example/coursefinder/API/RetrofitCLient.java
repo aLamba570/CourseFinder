@@ -6,7 +6,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class RetrofitCLient {
 
     private  static Retrofit retrofit;
-    private static final String BASE_URL = "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app/";
+    private static final String BASE_URL = " ";
 
     public static Retrofit getRetrofitClient(){
 
